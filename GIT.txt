@@ -1,3 +1,5 @@
+Passar arquivo local para o GitHub:
+
 git status
 
 git add .
