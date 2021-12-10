@@ -1,2 +1,2 @@
-# Desafio da Dio/Avanade
+# Desafios da Dio/Avanade
 Desafio de Projeto sobre Git/GitHub
