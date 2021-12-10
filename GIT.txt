@@ -1,9 +1,20 @@
-Passar arquivo local para o GitHub:
+Outros comandos de GIT: 
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
 
-git status
+git status - mostra o status da pasta (se tem alguma nova pasta/arquivo criado, "modified", "unmodified", "Untracked", "Staged")
 
-git add .
+git add . (adiciona uma nova pasta 'untracked' no arquivo ou adiciona novamente no arquivo uma pasta que foi modificada, a fim de atualizá-la)
 
-git commit -m ""
+git commit -m "" (salva o estágio atual de como o seu arquivo está após as alterações - "snapshot")
 
-git push origin (diamond/main/master)
+git push origin (diamond/main/master) (usado para publicar as modificações locais de um arquivo no repositório remoto)
+
+git init (cria um novo repositório)
+
+git rm *nome do arquivo* (remove um arquivo)
+
+git clone *link do repositorio* (copia um repositorio remoto já existente nos seus arquivos locais)
+
+ls (exibe o conteúdo do arquivo)
+
+cd *nome do arquivo* (entra no arquivo)
